@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danyirfansyah&label=Profile%20views&color=0e75b6&style=flat" alt="erlanggadewa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danyirfansyah&label=Profile%20views&color=0e75b6&style=flat" alt="danyirfansyah" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://www.eurekabookhouse.co.id/assets/front/images/androDev.gif">
 
